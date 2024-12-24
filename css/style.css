@@ -93,7 +93,7 @@ body.on .bulb span:nth-child(2){
     bottom: 44%;
     width: 4px;
     height: 60vh;
-    background: #FFF;
+    background: #000;
     z-index: 1;
 }
 .switch{
