@@ -90,7 +90,7 @@ body.on .bulb span:nth-child(2){
 .wire{
     position: absolute;
     left: calc(50% - 2px);
-    bottom: 44%;
+    bottom: 44.5%;
     width: 4px;
     height: 60vh;
     background: #000;
