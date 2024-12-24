@@ -39,7 +39,7 @@ body.on .bulb{
     width: 35px;
     height: 80px;
     background: #444;
-    border-top: 64px solid #000;
+    border-top: 50px solid #000;
     border-radius: 10px;
 }
 body.on .bulb::before{
